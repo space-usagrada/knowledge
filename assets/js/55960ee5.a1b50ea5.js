@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowledge=self.webpackChunkknowledge||[]).push([[121],{8070:function(e){e.exports=JSON.parse('[{"name":"M1 Mac","permalink":"/knowledge/docs/tags/m-1-mac","count":1},{"name":"environment","permalink":"/knowledge/docs/tags/environment","count":2},{"name":"terminal","permalink":"/knowledge/docs/tags/terminal","count":1}]')}}]);
